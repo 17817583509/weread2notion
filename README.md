@@ -33,7 +33,3 @@
         * NOTION_TOKEN
         * NOTION_DATABASE_ID
 
-## 微信群
-
-![image](WechatIMG20.jpg)
-
